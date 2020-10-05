@@ -8,5 +8,7 @@
 - Moeki Kurita:https://github.com/mk-repos/Stats506_public
 
   1.week1:practice Linux shell skills
+
   2.week2:R basics: vectors, arrays, objects, I/O, functions, programming. R: style guidelines
+
   3.Week3:practice git version control
