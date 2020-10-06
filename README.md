@@ -13,6 +13,7 @@ Data for problem set 1
   2. week2:R basics: vectors, arrays, objects, I/O, functions, programming. R: style guidelines
   3. Week3:practice git version control
 ## week4-6
+- Enhao Li:https://github.com/Lehao25/Stats506_public
 - Minghao Yang: https://github.com/Minghaoy97/Stats506_Public
 - Jialun Li：https://github.com/CataphractLi/Stats506_public
 ### week4
