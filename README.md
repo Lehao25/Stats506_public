@@ -2,7 +2,8 @@
 # About
 - Course Homepage: https://jbhender.github.io/Stats506/F20/
 - Repository_506：https://github.com/jbhender/Stats506_F20/
-# ps1
+# final_project
+# Ps1
 Data for problem set 1
 # Activities
 ## Weeks 1-3
